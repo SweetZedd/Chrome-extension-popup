@@ -1,7 +1,7 @@
 {
     "manifest_version" : 2,
     "name" : "Get Motivated Launcher",
-    "description" : "Quick Launch motivation!",
+    "description": "Demonstrates usage and features of Quick Launch motivation",...
     "version" :"1.0.0",
     "icons" : { "128" : "icon_128.png" },
     "browser_action" : {
@@ -10,3 +10,5 @@
     },
     "permissions" : ["activeTab"]
 }
+
+
